@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.sarif
+scan-*.json
+results_json.json
+k8s-*.json
+docker-*.json
